@@ -4,7 +4,7 @@ Hello there :)
 Here is a small function runnable on terminal or android app
 
 
-This app is part of a project to make communication between 2 androids (IOS Later maybe)
+#### This app is part of a project to make communication between 2 androids (IOS Later maybe)
 I wont be handling the future errors so pwease fork me.
 
 More info on the beautiful sources here :
