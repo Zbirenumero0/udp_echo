@@ -8,5 +8,5 @@ This app is part of a project to make communication between 2 androids (IOS Late
 I wont be handeling the future errors so pwease fork me.
 
 More info on the beautiful sources here :
-UDP Functions :     https://blog.jamesslocum.com/post/77759061182/udp-socket-programming-with-dart-unicast-and
-Wifi IP scanner :   https://blog.jamesslocum.com/post/77759061182/udp-socket-programming-with-dart-unicast-and
+  - [UDP Functions](https://blog.jamesslocum.com/post/77759061182/udp-socket-programming-with-dart-unicast-and)
+  - [Wifi IP scanner](https://blog.jamesslocum.com/post/77759061182/udp-socket-programming-with-dart-unicast-and)
