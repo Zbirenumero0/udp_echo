@@ -9,4 +9,3 @@ I wont be handling the future errors so pwease fork me.
 
 More info on the beautiful sources here :
   - [UDP Functions](https://blog.jamesslocum.com/post/77759061182/udp-socket-programming-with-dart-unicast-and)
-  - [Wifi IP scanner](https://blog.jamesslocum.com/post/77759061182/udp-socket-programming-with-dart-unicast-and)
